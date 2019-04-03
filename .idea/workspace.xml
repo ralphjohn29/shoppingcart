@@ -1,7 +1,38 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e11ee5dd-70b6-4c82-8d78-c45e4ce98b79" name="Default" comment="" />
+    <list default="true" id="4981c757-023f-40b9-bb7d-391dc3abb06c" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shoppingcart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shoppingcart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/init.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/m_cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/m_categories.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/m_products.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/models/m_template.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/includes/public_footer.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/includes/public_header.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/v_public_cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/v_public_home.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/v_public_product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/views/v_public_success.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_dump_content.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/db_dump_full.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/ipn.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/product.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/css/style.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/product_beachtoys.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/product_bear.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/product_computermonitor.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/product_headphones.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/product_hippo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/images/product_reindeer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/roadmap.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/success.php" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,32 +40,30 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/laravel/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/index.php">
+    <leaf>
+      <file leaf-file-name="httpd-vhosts.conf" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="563">
+              <caret line="56" column="53" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
   </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>DocumentRoot &quot;E:/xampp/htdocs</find>
-      <find>localhost</find>
-    </findStrings>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/init.php" />
-        <option value="$PROJECT_DIR$/../../apache/conf/httpd.conf" />
+        <option value="$PROJECT_DIR$/laravel/.env" />
         <option value="$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf" />
-        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
@@ -45,19 +74,103 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="NodePackageJsonFileManager">
-    <packageJsonPaths />
+    <packageJsonPaths>
+      <path value="$PROJECT_DIR$/package.json" />
+    </packageJsonPaths>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/laravel/vendor/vlucas/phpdotenv" />
+      <path value="$PROJECT_DIR$/laravel/vendor/tijsverkoyen/css-to-inline-styles" />
+      <path value="$PROJECT_DIR$/laravel/vendor/nikic/php-parser" />
+      <path value="$PROJECT_DIR$/laravel/vendor/dragonmantank/cron-expression" />
+      <path value="$PROJECT_DIR$/laravel/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psy/psysh" />
+      <path value="$PROJECT_DIR$/laravel/vendor/mockery/mockery" />
+      <path value="$PROJECT_DIR$/laravel/vendor/dnoegel/php-xdg-base-dir" />
+      <path value="$PROJECT_DIR$/laravel/vendor/erusev/parsedown" />
+      <path value="$PROJECT_DIR$/laravel/vendor/league/flysystem" />
+      <path value="$PROJECT_DIR$/laravel/vendor/theseer/tokenizer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/fideloper/proxy" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/console" />
+      <path value="$PROJECT_DIR$/laravel/vendor/jakub-onderka/php-console-color" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/process" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phar-io/manifest" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phar-io/version" />
+      <path value="$PROJECT_DIR$/laravel/vendor/jakub-onderka/php-console-highlighter" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-intl-idn" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/debug" />
+      <path value="$PROJECT_DIR$/laravel/vendor/egulias/email-validator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-iconv" />
+      <path value="$PROJECT_DIR$/laravel/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/contracts" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/finder" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-php72" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/http-kernel" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/event-dispatcher" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-ctype" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/routing" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/css-selector" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-file-iterator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/http-foundation" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpoption/phpoption" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-timer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/translation" />
+      <path value="$PROJECT_DIR$/laravel/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-code-coverage" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/phpunit" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-text-template" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpunit/php-token-stream" />
+      <path value="$PROJECT_DIR$/laravel/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/laravel/vendor/ramsey/uuid" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpdocumentor/reflection-docblock" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpspec/prophecy" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpdocumentor/type-resolver" />
+      <path value="$PROJECT_DIR$/laravel/vendor/nunomaduro/collision" />
+      <path value="$PROJECT_DIR$/laravel/vendor/phpdocumentor/reflection-common" />
+      <path value="$PROJECT_DIR$/laravel/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/comparator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/environment" />
+      <path value="$PROJECT_DIR$/laravel/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/global-state" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/object-enumerator" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/object-reflector" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/exporter" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/recursion-context" />
+      <path value="$PROJECT_DIR$/laravel/vendor/composer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/diff" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/version" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/resource-operations" />
+      <path value="$PROJECT_DIR$/laravel/vendor/sebastian/code-unit-reverse-lookup" />
+      <path value="$PROJECT_DIR$/laravel/vendor/nesbot/carbon" />
+      <path value="$PROJECT_DIR$/laravel/vendor/myclabs/deep-copy" />
+      <path value="$PROJECT_DIR$/laravel/vendor/webmozart/assert" />
+      <path value="$PROJECT_DIR$/laravel/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/laravel/vendor/beyondcode/laravel-dump-server" />
+      <path value="$PROJECT_DIR$/laravel/vendor/opis/closure" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/laravel/vendor/hamcrest/hamcrest-php" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/laravel/vendor/fzaninotto/faker" />
+      <path value="$PROJECT_DIR$/laravel/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/laravel/vendor/laravel/tinker" />
+      <path value="$PROJECT_DIR$/laravel/vendor/laravel/framework" />
+    </include_path>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1296" />
-    <option name="height" value="1000" />
+    <option name="x" value="10" />
+    <option name="y" value="20" />
+    <option name="width" value="1260" />
+    <option name="height" value="944" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -65,22 +178,17 @@
               <item name="shoppingcart" type="b2602c69:ProjectViewProjectNode" />
               <item name="shoppingcart" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="shoppingcart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="shoppingcart" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -99,45 +207,41 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e11ee5dd-70b6-4c82-8d78-c45e4ce98b79" name="Default" comment="" />
-      <created>1553477501691</created>
+      <changelist id="4981c757-023f-40b9-bb7d-391dc3abb06c" name="Default" comment="" />
+      <created>1554235377221</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1553477501691</updated>
-      <workItem from="1553477503014" duration="612000" />
-      <workItem from="1553673244120" duration="188000" />
-      <workItem from="1554085706181" duration="2412000" />
-      <workItem from="1554088144674" duration="772000" />
-      <workItem from="1554088943718" duration="612000" />
+      <updated>1554235377221</updated>
+      <workItem from="1554235378631" duration="673000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4596000" />
+    <option name="totallyTimeSpent" value="673000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1456" height="876" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info id="Favorites" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,67 +251,24 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/laravel/.env">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="2" lean-forward="true" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
+        <state relative-caret-position="323">
+          <caret line="19" column="20" lean-forward="true" selection-start-line="19" selection-start-column="20" selection-end-line="19" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
+    <entry file="file://$PROJECT_DIR$/laravel/resources/views/welcome.blade.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="5" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="969">
-          <caret line="57" column="36" lean-forward="true" selection-start-line="57" selection-start-column="36" selection-end-line="57" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/init.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="7" column="19" lean-forward="true" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-xampp.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1171" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-ssl.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-3927" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../apache/conf/original/httpd.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1122" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../../apache/conf/httpd.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="247" column="27" selection-start-line="247" selection-start-column="27" selection-end-line="247" selection-end-column="27" />
+        <state relative-caret-position="238">
+          <caret line="14" column="39" lean-forward="true" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../../apache/conf/extra/httpd-vhosts.conf">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="61" lean-forward="true" selection-start-line="61" selection-end-line="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="563">
+          <caret line="56" column="53" selection-start-line="56" selection-start-column="53" selection-end-line="56" selection-end-column="53" />
         </state>
       </provider>
     </entry>
